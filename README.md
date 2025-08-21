@@ -8,7 +8,7 @@
 
 ## Print da tela da página criada (Curriculum Vitae)
 
-![Print Página Web](print_pagina_web.PNG)
+![Print Página Web](public/imagens/print_pagina_web.PNG)
 ![Sobre Mim](public/imagens/print_sobre_mim.PNG)
 
 ![Contatos](public/imagens/print_contatos.PNG)
