@@ -9,6 +9,7 @@ nav {
     
     font-size: larger;
     float:right ;
+    margin-right: 750px;
     
     
 }
@@ -20,10 +21,17 @@ h3 {
    color:rgb(14, 15, 15) ;
 }
 aside{
-      
+   
     display: inline;
     float: right;
-    margin-top: -650px ;
+    margin-top: -635px ;
+   
+}
+header{
+    display: block;
+    float: right;
+    background-color:rgb(187, 231, 187)
+    
 }
 
   
