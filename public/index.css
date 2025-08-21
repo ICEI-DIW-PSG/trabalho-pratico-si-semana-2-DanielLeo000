@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(146, 250, 158);
+}
+
+article {
+    background-color:rgb(187, 231, 187)
+}
+nav {
+    
+    font-size: larger;
+    float:right ;
+    
+    
+}
+img {
+    background-color:rgb(187, 231, 187)
+
+}
+h3 {
+   color:rgb(14, 15, 15) ;
+}
+aside{
+      
+    display: inline;
+    float: right;
+    margin-top: -650px ;
+}
+
+  
